@@ -109,10 +109,6 @@ Each model’s performance was compared, and the best-performing model was selec
 - xgboost
 - imbalanced-learn
 
-You can install the required dependencies by running:
-```bash
-pip install -r requirements.txt
-
 ## Conclusion
 In this project, we successfully built a predictive model to detect the presence of heart disease using machine learning techniques. By leveraging a variety of features such as age, sex, cholesterol levels, and heart rate, we were able to train several models to predict heart disease risk with high accuracy. The key steps included:
 
